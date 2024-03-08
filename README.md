@@ -54,13 +54,5 @@ Olá, meu nome é Lucas, estudante de Engenharia de Software no Instituto Federa
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrachid&layout=compact&langs_count=7&theme=swift"/>
  </a>
 </div>
-<div style="display: inline_block">
- <br>
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
 <img align='right' src='./on_fire.gif' width='350"'/>
