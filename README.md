@@ -1,5 +1,7 @@
 # **Lucas Rachid Martins**👨‍💻
 
+<img align='right' src='./on_fire.gif' width='350"'/>
+
 ![Visitors](https://visitor-badge.lithub.cc/badge?page_id=github.com/lucasrachid)
 [![Linkedin Badge](https://img.shields.io/badge/-lucasrachid-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrachid/)](https://www.linkedin.com/in/lucasrachid/)
 [![Gmail Badge](https://img.shields.io/badge/lucasrachid.nextage@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lucasrachid.nextage@gmail.com)](mailto:lucasrachid.nextage@gmail.com)
@@ -48,5 +50,3 @@ Olá, meu nome é Lucas, estudante de Engenharia de Software no Instituto Federa
 
 ## 💻 Work Stats
 ![Rachid GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrachid&show_icons=true&theme=radical)
-
-<img align='right' src='./on_fire.gif' width='350"'/>
