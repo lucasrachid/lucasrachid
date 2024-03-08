@@ -13,16 +13,6 @@
     <b>Hi There,</b> 
 </h2>
 
-<p>
-    Olá, meu nome é Lucas, estudante de Engenharia de Software no Instituto Federal do Paraná (IFPR) e atualmente integro a equipe da NexAge, uma empresa de desenvolvimento de Software. Onde atualmente estou alocado a um projeto de esteira de crédito, voltado tanto para o crédito rural, como automóveis, projeto esse que pertence a uma cooperativa de crédito do Paraná.<br>
-    Atuando no projeto como full-stack, onde utilizamos como tecnologias no Front-end Angular CLI, quanto ao back-end, utilizamos serviços monolíticos em Python/Django e Micro-serviços com Java/Kotlin/Spring. Já no banco de dados Postgres SQL.<br>
-    Antes de ingressar na área de desenvolvimento, cursava Ciências Contábeis na UNESPAR, porém através incentivo de amigos que já atuavam como desenvolvedores e por sempre gostar de tecnologia, resolvi fazer a transição. Hoje já possuo dois anos de experiência profissional, onde sinto que sem sombra de dúvidas, foi a melhor decisão da minha vida.<br>
-    O compromisso com o aprendizado contínuo é uma prioridade em minha trajetória profissional. Busco constantemente aprimorar minhas habilidades e conhecimentos, visando tornar-me um profissional mais qualificado.<br>
- 
- Contato e-mail: lucasrachid@hotmail.com<br>
- WhatsApp: (44)99943-6290
-  </p>
-
 ## ⚡Skills
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
