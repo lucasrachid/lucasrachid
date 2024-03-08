@@ -49,10 +49,4 @@ Olá, meu nome é Lucas, estudante de Engenharia de Software no Instituto Federa
 ## 💻 Work Stats
 ![Rachid GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrachid&show_icons=true&theme=radical)
 
- <div>
-  <a href="https://github.com/lucasrachid">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrachid&layout=compact&langs_count=7&theme=swift"/>
- </a>
-</div>
-
 <img align='right' src='./on_fire.gif' width='350"'/>
