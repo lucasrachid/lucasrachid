@@ -3,7 +3,7 @@
 <img align='right' src='./on_fire.gif' width='350"'/>
 
 ![Visitors](https://visitor-badge.lithub.cc/badge?page_id=github.com/Santyero)
-[![Linkedin Badge](https://img.shields.io/badge/-santyero-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrachid/)](https://www.linkedin.com/in/lucasrachid/)
+[![Linkedin Badge](https://img.shields.io/badge/-lucasrachid-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrachid/)](https://www.linkedin.com/in/lucasrachid/)
 [![Gmail Badge](https://img.shields.io/badge/lucasrachid.nextage@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lucasrachid.nextage@gmail.com)](mailto:lucasrachid.nextage@gmail.com)
 [![Instagram](https://img.shields.io/badge/rachid_martins-c14438?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/rachid_martins)](https://www.instagram.com/rachid_martins/)
 [![GitHub followers](https://img.shields.io/github/followers/lucasrachid?label=Follow&style=social)](https://github.com/lucasrachid/?tab=follow)
